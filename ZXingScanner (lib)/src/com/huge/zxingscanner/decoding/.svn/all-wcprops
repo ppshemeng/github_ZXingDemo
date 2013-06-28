@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ppshemeng/ZXingDemo/!svn/ver/8/trunk/src/com/huge/zxingscanner/decoding
+END
+DecodeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ppshemeng/ZXingDemo/!svn/ver/8/trunk/src/com/huge/zxingscanner/decoding/DecodeHandler.java
+END
+DecodeFormatManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ppshemeng/ZXingDemo/!svn/ver/8/trunk/src/com/huge/zxingscanner/decoding/DecodeFormatManager.java
+END
+DecodeThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ppshemeng/ZXingDemo/!svn/ver/8/trunk/src/com/huge/zxingscanner/decoding/DecodeThread.java
+END
+Intents.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ppshemeng/ZXingDemo/!svn/ver/8/trunk/src/com/huge/zxingscanner/decoding/Intents.java
+END
+CaptureActivityHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ppshemeng/ZXingDemo/!svn/ver/8/trunk/src/com/huge/zxingscanner/decoding/CaptureActivityHandler.java
+END
+BitmapLuminanceSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/ppshemeng/ZXingDemo/!svn/ver/8/trunk/src/com/huge/zxingscanner/decoding/BitmapLuminanceSource.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ppshemeng/ZXingDemo/!svn/ver/7/trunk/src/com/google/zxing/maxicode/decoder
+END
+BitMatrixParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ppshemeng/ZXingDemo/!svn/ver/7/trunk/src/com/google/zxing/maxicode/decoder/BitMatrixParser.java
+END
+DecodedBitStreamParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/ppshemeng/ZXingDemo/!svn/ver/7/trunk/src/com/google/zxing/maxicode/decoder/DecodedBitStreamParser.java
+END
+Decoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ppshemeng/ZXingDemo/!svn/ver/7/trunk/src/com/google/zxing/maxicode/decoder/Decoder.java
+END

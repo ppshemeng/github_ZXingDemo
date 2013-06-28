@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ppshemeng/ZXingDemo/!svn/ver/7/trunk/src/com/google/zxing/pdf417/decoder
+END
+BitMatrixParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ppshemeng/ZXingDemo/!svn/ver/7/trunk/src/com/google/zxing/pdf417/decoder/BitMatrixParser.java
+END
+DecodedBitStreamParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/ppshemeng/ZXingDemo/!svn/ver/7/trunk/src/com/google/zxing/pdf417/decoder/DecodedBitStreamParser.java
+END
+Decoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ppshemeng/ZXingDemo/!svn/ver/7/trunk/src/com/google/zxing/pdf417/decoder/Decoder.java
+END

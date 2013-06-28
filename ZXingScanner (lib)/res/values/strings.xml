@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, CaptureActivity!</string>
+    <string name="app_name">扫描</string>
+    <string name="back">返回</string>
+    <string name="barcode">二维码</string>
+    <string name="setup">确定</string>
+    <string name="scannerResult">No scan result</string>
+</resources>

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ppshemeng/ZXingDemo/!svn/ver/7/trunk/src/com/google/zxing/qrcode/decoder
+END
+ErrorCorrectionLevel.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/ppshemeng/ZXingDemo/!svn/ver/7/trunk/src/com/google/zxing/qrcode/decoder/ErrorCorrectionLevel.java
+END
+BitMatrixParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ppshemeng/ZXingDemo/!svn/ver/7/trunk/src/com/google/zxing/qrcode/decoder/BitMatrixParser.java
+END
+Version.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ppshemeng/ZXingDemo/!svn/ver/7/trunk/src/com/google/zxing/qrcode/decoder/Version.java
+END
+DataMask.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ppshemeng/ZXingDemo/!svn/ver/7/trunk/src/com/google/zxing/qrcode/decoder/DataMask.java
+END
+DecodedBitStreamParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/ppshemeng/ZXingDemo/!svn/ver/7/trunk/src/com/google/zxing/qrcode/decoder/DecodedBitStreamParser.java
+END
+FormatInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ppshemeng/ZXingDemo/!svn/ver/7/trunk/src/com/google/zxing/qrcode/decoder/FormatInformation.java
+END
+Decoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ppshemeng/ZXingDemo/!svn/ver/7/trunk/src/com/google/zxing/qrcode/decoder/Decoder.java
+END
+DataBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ppshemeng/ZXingDemo/!svn/ver/7/trunk/src/com/google/zxing/qrcode/decoder/DataBlock.java
+END
+Mode.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ppshemeng/ZXingDemo/!svn/ver/7/trunk/src/com/google/zxing/qrcode/decoder/Mode.java
+END

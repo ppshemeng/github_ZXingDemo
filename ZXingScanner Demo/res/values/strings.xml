@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ZXingScannerActivity!</string>
+    <string name="app_name">ZXingScanner</string>
+    <string name="scannerResult">no barcode</string>
+
+</resources>

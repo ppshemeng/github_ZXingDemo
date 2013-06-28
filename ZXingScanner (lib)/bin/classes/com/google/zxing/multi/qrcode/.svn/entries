@@ -1,0 +1,49 @@
+10
+
+dir
+0
+https://github.com/ppshemeng/ZXingDemo/trunk/bin/classes/com/google/zxing/multi/qrcode
+https://github.com/ppshemeng/ZXingDemo
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+eb763ca9-abc1-fa9b-30cf-ce57b7db7bff
+
+QRCodeMultiReader.class
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+detector
+dir
+
+
+
+add
+

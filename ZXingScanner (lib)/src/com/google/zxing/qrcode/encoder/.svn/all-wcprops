@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ppshemeng/ZXingDemo/!svn/ver/7/trunk/src/com/google/zxing/qrcode/encoder
+END
+MaskUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ppshemeng/ZXingDemo/!svn/ver/7/trunk/src/com/google/zxing/qrcode/encoder/MaskUtil.java
+END
+QRCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ppshemeng/ZXingDemo/!svn/ver/7/trunk/src/com/google/zxing/qrcode/encoder/QRCode.java
+END
+Encoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ppshemeng/ZXingDemo/!svn/ver/7/trunk/src/com/google/zxing/qrcode/encoder/Encoder.java
+END
+ByteMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ppshemeng/ZXingDemo/!svn/ver/7/trunk/src/com/google/zxing/qrcode/encoder/ByteMatrix.java
+END
+BlockPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ppshemeng/ZXingDemo/!svn/ver/7/trunk/src/com/google/zxing/qrcode/encoder/BlockPair.java
+END
+MatrixUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ppshemeng/ZXingDemo/!svn/ver/7/trunk/src/com/google/zxing/qrcode/encoder/MatrixUtil.java
+END

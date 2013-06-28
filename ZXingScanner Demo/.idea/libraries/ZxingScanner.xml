@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ZxingScanner">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/ZxingScanner.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
